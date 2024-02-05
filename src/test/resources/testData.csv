@@ -1,0 +1,3 @@
+TestCaseID;id;upvote;downvote;hidden;dialogue;private;tag1;tag2;tag3;url;upvotes_count;author;author_permalink;body;favorites_count;favorite
+TC02;19208;false;false;false;false;false;faith;hope;;https://favqs.com/quotes/herman-melville/19208-faith-like-a--;1;Herman Melville;herman-melville;Faith, like a jackal, feeds among the tombs, and even from these dead doubts she gathers her most vital hope.;4;true
+TC04;19208;false;false;false;false;false;faith;hope;;https://favqs.com/quotes/herman-melville/19208-faith-like-a--;1;Herman Melville;herman-melville;Faith, like a jackal, feeds among the tombs, and even from these dead doubts she gathers her most vital hope.;3;false
